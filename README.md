@@ -20,9 +20,7 @@
 
 ---
 
-```bash
-$ whoami
-```
+
 
 ```txt
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -47,9 +45,7 @@ $ whoami
 
 ---
 
-```bash
-$ cat about_me.md
-```
+
 
 I'm an **AI & Data Science student** who went straight to production.
 
@@ -156,10 +152,6 @@ The best software is **opinionated, domain-specific, and built by someone who ca
 
 ---
 
-```bash
-$ cat skills.txt
-```
-
 <div align="center">
 
 ### ⚡ Languages & Frameworks
@@ -189,9 +181,6 @@ $ cat skills.txt
 
 ---
 
-```bash
-$ git log --stat
-```
 
 <div align="center">
 
@@ -235,9 +224,7 @@ $ git log --stat
 
 ---
 
-```bash
-$ cat philosophy.md
-```
+
 
 ```txt
 ┌──────────────────────────────────────────────────────────────────────┐
@@ -258,9 +245,7 @@ $ cat philosophy.md
 
 ---
 
-```bash
-$ cat currently.log
-```
+
 
 ```txt
 Active areas
@@ -290,10 +275,6 @@ Active areas
 </div>
 
 ---
-
-```bash
-$ contact --open
-```
 
 <div align="center">
 
