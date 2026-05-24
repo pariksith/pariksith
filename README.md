@@ -292,4 +292,4 @@ LegalTech · HealthTech · FinTech · AI Workflows · Real-time Systems
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,25:302b63,50:4a1942,75:1f4068,100:0f0c29&amp;height=140&amp;section=footer&amp;animation=fadeIn"/>
 
-</div> THIS IS THE CURRENT ONE I WILL PROVIDE WHAT ARE THE PROBLEMS I BEEN FACING LINELY GIVE ENTIRELY FICED ONE
+</div> 
