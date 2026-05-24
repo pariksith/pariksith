@@ -1,26 +1,26 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,20:1b153f,40:302b63,60:4a1942,80:1f4068,100:24243e&amp;height=250&amp;section=header&amp;text=Pariksith%20G&amp;fontSize=72&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%26DS%20Student%20•%20Full-Stack%20Developer%20•%20Production-First%20Builder&amp;descAlignY=60&amp;descSize=18&amp;animation=fadeIn" alt="header"/>
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,20:1b153f,40:302b63,60:4a1942,80:1f4068,100:24243e&height=250&section=header&text=Pariksith%20G&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%26DS%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Production-First%20Builder&descAlignY=60&descSize=18&animation=fadeIn)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2600&amp;pause=700&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=I+don%27t+build+demos.+I+build+platforms.;AI%26DS+Student+who+actually+ships.;LegalTech+•+HealthTech+•+FinTech+•+Real-time.;Full-stack+ownership+from+UI+to+DB+to+deployment.;If+the+problem+is+too+complex+—+I%27m+in." alt="Typing SVG"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=I+don't+build+demos.+I+build+platforms.;AI%26DS+Student+who+actually+ships.;LegalTech+%7C+HealthTech+%7C+FinTech+%7C+Real-time.;Full-stack+ownership+from+UI+to+DB+to+deployment.;If+the+problem+is+too+complex+—+I'm+in.)
 
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-pariksith-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=302b63)](https://github.com/pariksith)
+
 [![CaseFlow](https://img.shields.io/badge/Live-CaseFlow-a78bfa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://caseflows.vercel.app/)
+
 [![CHEP](https://img.shields.io/badge/Live-CHEP-f472b6?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117)](https://chep.infinityfreeapp.com/index.php)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=pariksith&style=for-the-badge&color=a78bfa&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/pariksith)
+
 [![Followers](https://img.shields.io/github/followers/pariksith?style=for-the-badge&color=f472b6&labelColor=0d1117)](https://github.com/pariksith?tab=followers)
 
 </div>
 
 ---
-
-
 
 ```txt
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -45,22 +45,21 @@
 
 ---
 
+# 🚀 About Me
 
+I'm an **AI & Data Science student** focused on building real production systems.
 
-I'm an **AI & Data Science student** who went straight to production.
-
-While most people write assignments about neural networks, I'm integrating GPT-4o into courtroom workflows. While most people read about databases, I'm designing multi-role hospital systems with ICU monitoring, telemedicine, triage, and payroll — all in one repo.
-
-I work across the full stack without hesitation: **TypeScript, PHP, React, Next.js, Python** — and wherever the problem leads.
-
-### Domains I Build For
-- ⚖️ Legal Tech
+While many people build tutorials, I build platforms for:
+- ⚖️ LegalTech
 - 🏥 Healthcare
 - 💸 Finance
-- 💬 Communication
-- 🎬 Creative Tools
+- 💬 Real-time Communication
+- 🎬 Creative Browser Tools
 
-The best software is **opinionated, domain-specific, and built by someone who cares**.
+I work across the full stack using:
+`TypeScript` · `PHP` · `React` · `Next.js` · `Python`
+
+I focus on software that survives outside demo videos.
 
 ---
 
@@ -69,17 +68,18 @@ The best software is **opinionated, domain-specific, and built by someone who ca
 > Court-ready legal notices from raw client stories.
 
 ### Features
-- GPT-4o structured legal extraction
+- GPT-4o legal extraction
 - Court-ready `.docx` generation
-- Twilio OTP authentication
-- Resend email reminders
-- Tamil + English i18n
+- OTP authentication
+- Email reminders
+- Tamil + English support
 - Deadline tracking
 
 ### Stack
-`Next.js 14` · `TypeScript` · `Supabase` · `GPT-4o` · `Twilio` · `Resend`
+`Next.js 14` · `TypeScript` · `Supabase` · `GPT-4o`
 
 [![Repo](https://img.shields.io/badge/GitHub-CASEFLOW-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith/CASEFLOW)
+
 [![Live](https://img.shields.io/badge/Live-caseflows.vercel.app-f472b6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://caseflows.vercel.app/)
 
 ---
@@ -99,9 +99,10 @@ The best software is **opinionated, domain-specific, and built by someone who ca
 - PWA support
 
 ### Stack
-`PHP` · `MySQL` · `JavaScript` · `PWA`
+`PHP` · `MySQL` · `JavaScript`
 
 [![Repo](https://img.shields.io/badge/GitHub-CHEP-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith/COMPLETE-HOSPITAL-ECOSYSTEM-PLATFORM)
+
 [![Live](https://img.shields.io/badge/Live-chep.infinityfreeapp.com-f472b6?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117)](https://chep.infinityfreeapp.com/index.php)
 
 ---
@@ -112,7 +113,7 @@ The best software is **opinionated, domain-specific, and built by someone who ca
 - Loan tracking
 - EMI schedules
 - Partner commissions
-- Financial reports
+- Financial reporting
 - Row-level security
 
 ### Stack
@@ -154,47 +155,65 @@ The best software is **opinionated, domain-specific, and built by someone who ca
 
 <div align="center">
 
-### ⚡ Languages & Frameworks
+# ⚡ Tech Stack
+
+### Languages & Frameworks
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🗄️ Backend & Data
+---
+
+### Backend & Data
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🚀 Deploy & Tooling
+---
+
+### Deploy & Tooling
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pariksith&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=f472b6&amp;text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pariksith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f472b6&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pariksith&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c9d1d9"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pariksith&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;stroke=a78bfa&amp;ring=f472b6&amp;fire=f472b6&amp;currStreakLabel=a78bfa"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pariksith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pariksith&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=f472b6&amp;point=ffffff&amp;area=true&amp;hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pariksith&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=f472b6&fire=f472b6&currStreakLabel=a78bfa"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pariksith&bg_color=0d1117&color=a78bfa&line=f472b6&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -204,53 +223,15 @@ The best software is **opinionated, domain-specific, and built by someone who ca
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pariksith&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=2&amp;column=4&amp;margin-w=16&amp;margin-h=16"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pariksith&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=16&margin-h=16"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pariksith/pariksith/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pariksith/pariksith/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pariksith/pariksith/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
----
-
-
+# 📈 Current Focus
 
 ```txt
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│  I build things that solve real problems for real people.            │
-│                                                                      │
-│  Legal tech. Healthcare. Finance. Communication.                     │
-│  Domains that matter — not CRUD tutorials.                           │
-│                                                                      │
-│  → Domain-specific AI                                                │
-│  → Full-stack ownership                                              │
-│  → Shipping over perfection                                          │
-│  → Production-first systems                                          │
-│  → Software built to survive outside demos                           │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-
-
-```txt
-Active areas
-─────────────────────────────────────────────
-
 ▸ Production AI integrations
 ▸ Real-time systems architecture
 ▸ Database optimization
@@ -276,11 +257,13 @@ Active areas
 
 ---
 
+# 🤝 Connect
+
 <div align="center">
 
 ### Open to collaborations and serious builds.
 
-LegalTech · HealthTech · FinTech · AI Workflows · Real-time Systems
+LegalTech • HealthTech • FinTech • AI Workflows • Real-time Systems
 
 <br/>
 
@@ -292,6 +275,6 @@ LegalTech · HealthTech · FinTech · AI Workflows · Real-time Systems
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,25:302b63,50:4a1942,75:1f4068,100:0f0c29&amp;height=140&amp;section=footer&amp;animation=fadeIn"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,25:302b63,50:4a1942,75:1f4068,100:0f0c29&height=140&section=footer&animation=fadeIn)
 
 </div>
