@@ -2,13 +2,16 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,20:1b153f,40:302b63,60:4a1942,80:1f4068,100:24243e&height=250&section=header&text=Pariksith%20G&fontSize=72&fontColor=ffffff&fontAlignY=50&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;AI+%26+DS+Student;Full-Stack+Developer;Production-First+Builder;LegalTech+%7C+HealthTech+%7C+FinTech;Building+Real-World+Platforms)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Now+It's+Personal...;AI+%26+DS+Student;Full-Stack+Developer;Production-First+Builder;LegalTech+%7C+HealthTech+%7C+FinTech+%7C+NLP;Building+Real-World+Platforms)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=I+don't+build+demos.+I+build+platforms.;AI%26DS+Student+who+actually+ships.;LegalTech+%7C+HealthTech+%7C+FinTech+%7C+Real-time.;Full-stack+ownership+from+UI+to+DB+to+deployment.;If+the+problem+is+too+complex+—+I'm+in.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=I+don't+build+demos.+I+build+platforms.;AI%26DS+Student+who+actually+ships.;LegalTech+%7C+HealthTech+%7C+FinTech+%7C+NLP.;Full-stack+ownership+from+UI+to+DB+to+deployment.;If+the+problem+is+too+complex+—+I'm+in.)
 
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-pariksith-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=302b63)](https://github.com/pariksith)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pariksith.netlify.app-a78bfa?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117)](https://pariksith.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://in.linkedin.com/in/pariksith-ganesh-kumar-537a5336a)
+[![LeetCode](https://img.shields.io/badge/LeetCode-pariksith24-f472b6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/pariksith24/)
 [![CaseFlow](https://img.shields.io/badge/Live-CaseFlow-a78bfa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://caseflows.vercel.app/)
 [![CHEP](https://img.shields.io/badge/Live-CHEP-f472b6?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117)](https://chep.infinityfreeapp.com/index.php)
 [![Profile Views](https://komarev.com/ghpvc/?username=pariksith&style=for-the-badge&color=a78bfa&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/pariksith)
@@ -18,22 +21,20 @@
 
 ---
 
-
-
 ```txt
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
 ║  Pariksith G                                                                 ║
 ║  ─────────────────────────────────────────────────────────────────────────   ║
-║  AI & Data Science Student · Full-Stack Developer                            ║
+║  AI & Data Science Student · Full-Stack Developer · Coimbatore, India        ║
 ║                                                                              ║
 ║  Building production-grade platforms at the intersection of                  ║
 ║  AI, domain expertise, and systems that survive real users.                  ║
 ║                                                                              ║
 ║  Not a tutorial builder. Not a demo guy.                                     ║
 ║  I build hospital ecosystems. Legal tech platforms.                          ║
-║  Loan management systems. Real-time chat apps.                               ║
-║  Browser-based video editors.                                                ║
+║  Loan management systems. Offline NLP engines.                               ║
+║  AI-powered creative tools.                                                  ║
 ║                                                                              ║
 ║  If a problem feels too complex for a weekend project —                      ║
 ║  I spend the weekends solving it anyway.                                     ║
@@ -42,8 +43,6 @@
 ```
 
 ---
-
-
 
 I'm an **AI & Data Science student** who went straight to production.
 
@@ -55,10 +54,46 @@ I work across the full stack without hesitation: **TypeScript, PHP, React, Next.
 - ⚖️ Legal Tech
 - 🏥 Healthcare
 - 💸 Finance
-- 💬 Communication
-- 🎬 Creative Tools
+- 🧠 NLP & AI Tooling
+- 🎨 Creative Tools
 
 The best software is **opinionated, domain-specific, and built by someone who cares**.
+
+---
+
+# 📌 Featured Projects
+
+# 🧩 Q-GEN — Offline NLP Question Generator
+
+> Rule-based question generation, no API calls, no internet required.
+
+### Features
+- spaCy dependency parsing for grammar-aware generation
+- Generates Wh-questions, True/False, MCQ, and Cloze
+- Each question tagged with a difficulty level
+- Fully offline, rule-based pipeline
+
+### Stack
+`Python` · `spaCy` · `NLP`
+
+[![Repo](https://img.shields.io/badge/GitHub-Q--GEN-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith/Q-GEN)
+
+---
+
+# 📌 PINCRAFT — AI Pinterest Recreation Tool
+
+> Turns a reference image into a full shoot blueprint.
+
+### Features
+- Analyzes a reference image for style and mood
+- Generates scene, camera, and lighting guidance
+- Editing recommendations
+- Shopping guidance for props and outfits
+
+### Stack
+`Python` · `AI/Vision`
+
+[![Repo](https://img.shields.io/badge/GitHub-PINCRAFT-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith/PINCRAFT)
 
 ---
 
@@ -68,6 +103,7 @@ The best software is **opinionated, domain-specific, and built by someone who ca
 
 ### Features
 - GPT-4o structured legal extraction
+- Section 138 NI Act notice generation for Indian advocates
 - Court-ready `.docx` generation
 - Twilio OTP authentication
 - Resend email reminders
@@ -82,16 +118,36 @@ The best software is **opinionated, domain-specific, and built by someone who ca
 
 ---
 
+# 💸 LendMate — Lending Management System
+
+> Loan management and collections platform for tracking the full lending lifecycle.
+
+### Features
+- Borrower and loan tracking
+- EMI schedules and repayments
+- Partner commissions
+- Expenses & withdrawals tracking
+- Financial reports
+- Row-level security
+
+### Stack
+`React` · `TypeScript` · `Supabase` · `PostgreSQL`
+
+[![Repo](https://img.shields.io/badge/GitHub-LendMate-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith/LENDING-MANAGEMENT-SYSTEM)
+
+---
+
 # 🏥 CHEP — Complete Hospital Ecosystem Platform
 
 > A hospital in a repository.
 
 ### Modules
+- Patient registration & appointments
 - Doctor workflows
 - Reception & billing
-- Pharmacy systems
+- Pharmacy & laboratory
 - ICU monitoring
-- AI symptom checker
+- AI-powered health assistant
 - Payroll & analytics
 - Telemedicine
 - PWA support
@@ -104,49 +160,20 @@ The best software is **opinionated, domain-specific, and built by someone who ca
 
 ---
 
-# 💸 LendMate — Lending Management System
+# ✍️ CUSTOM — Cinematic AI Story Generator
+
+> A local AI writing app that turns a short prompt into a full piece.
 
 ### Features
-- Loan tracking
-- EMI schedules
-- Partner commissions
-- Financial reports
-- Row-level security
+- Runs fully locally via Hugging Face Transformers + PyTorch
+- Gradio-based interface
+- Generates Story, Poem, and more from one prompt
+- Selectable output styles
 
 ### Stack
-`React` · `TypeScript` · `Supabase` · `PostgreSQL`
+`Python` · `Gradio` · `Hugging Face Transformers` · `PyTorch`
 
-[![Repo](https://img.shields.io/badge/GitHub-LendMate-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith/LENDING-MANAGEMENT-SYSTEM)
-
----
-
-# 💬 Let's Chat — Real-Time Chat App
-
-### Features
-- Real-time messaging
-- Chat rooms
-- Presence tracking
-- WebSocket architecture
-
-### Stack
-`JavaScript` · `WebSockets`
-
-[![Repo](https://img.shields.io/badge/GitHub-LetsChat-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith/LETS-CHAT-CARTRABBIT)
-
----
-
-# 🎬 Video Editing Platform
-
-### Features
-- Browser editing
-- Timeline trimming
-- Filters
-- Video processing
-
-### Stack
-`PHP` · `Canvas API` · `JavaScript`
-
-[![Repo](https://img.shields.io/badge/GitHub-VideoEditor-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith/VIDEO-EDITING-PLATFORM)
+[![Repo](https://img.shields.io/badge/GitHub-CUSTOM-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith/CUSTOM)
 
 ---
 
@@ -162,6 +189,13 @@ The best software is **opinionated, domain-specific, and built by someone who ca
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+### 🧠 AI / NLP
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 ### 🗄️ Backend & Data
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -172,13 +206,13 @@ The best software is **opinionated, domain-specific, and built by someone who ca
 ### 🚀 Deploy & Tooling
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
-
 
 <div align="center">
 
@@ -222,14 +256,12 @@ The best software is **opinionated, domain-specific, and built by someone who ca
 
 ---
 
-
-
 ```txt
 ┌──────────────────────────────────────────────────────────────────────┐
 │                                                                      │
 │  I build things that solve real problems for real people.            │
 │                                                                      │
-│  Legal tech. Healthcare. Finance. Communication.                     │
+│  Legal tech. Healthcare. Finance. NLP. Creative tools.                │
 │  Domains that matter — not CRUD tutorials.                           │
 │                                                                      │
 │  → Domain-specific AI                                                │
@@ -243,8 +275,56 @@ The best software is **opinionated, domain-specific, and built by someone who ca
 
 ---
 
+```txt
+Active areas
+─────────────────────────────────────────────
 
+▸ Production AI integrations
+▸ Offline / rule-based NLP
+▸ Real-time systems architecture
+▸ Database optimization
+▸ Tamil-first NLP
+▸ SaaS architecture
+▸ Vector databases
+▸ High-availability systems
 
+[STATUS] Always learning. Always building.
+```
+
+---
+
+# 📊 By The Numbers
+
+<div align="center">
+
+| 🚀 Production Projects | ⚙️ Backend Systems | 🤖 AI Integrations | 💾 Database Schemas | 🌐 Live Deploys |
+|:---:|:---:|:---:|:---:|:---:|
+| 6+ | 4+ | 4+ | 5+ | 2+ |
+
+</div>
+
+---
+
+<div align="center">
+
+### Open to collaborations and serious builds.
+
+LegalTech · HealthTech · FinTech · NLP · AI Workflows · Real-time Systems
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20@pariksith-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://in.linkedin.com/in/pariksith-ganesh-kumar-537a5336a)
+
+<br/>
+
+> *"The best time to ship was last week. The second best time is right now."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,25:302b63,50:4a1942,75:1f4068,100:0f0c29&amp;height=140&amp;section=footer&amp;animation=fadeIn"/>
+
+</div>
 ```txt
 Active areas
 ─────────────────────────────────────────────
