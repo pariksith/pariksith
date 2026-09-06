@@ -1,375 +1,126 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,20:1b153f,40:302b63,60:4a1942,80:1f4068,100:24243e&height=250&section=header&text=Pariksith%20G&fontSize=72&fontColor=ffffff&fontAlignY=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,20:1b153f,40:302b63,60:4a1942,80:1f4068,100:24243e&height=220&section=header&text=Pariksith%20G&fontSize=64&fontColor=ffffff&fontAlignY=50&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Now+It's+Personal...;AI+%26+DS+Student;Full-Stack+Developer;Production-First+Builder;LegalTech+%7C+HealthTech+%7C+FinTech+%7C+NLP;Building+Real-World+Platforms)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Now+It's+Personal...;AI+%26+DS+Student;Full-Stack+Developer;Production-First+Builder)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=I+don't+build+demos.+I+build+platforms.;AI%26DS+Student+who+actually+ships.;LegalTech+%7C+HealthTech+%7C+FinTech+%7C+NLP.;Full-stack+ownership+from+UI+to+DB+to+deployment.;If+the+problem+is+too+complex+—+I'm+in.)
+**AI & Data Science Student · Full-Stack Developer · Coimbatore, India**
 
-<br/><br/>
+I don't build demos — I build platforms. LegalTech, HealthTech, FinTech, and NLP tools that actually ship.
 
-[![GitHub](https://img.shields.io/badge/GitHub-pariksith-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=302b63)](https://github.com/pariksith)
-[![Portfolio](https://img.shields.io/badge/Portfolio-pariksith.netlify.app-a78bfa?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117)](https://pariksith.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://in.linkedin.com/in/pariksith-ganesh-kumar-537a5336a)
-[![LeetCode](https://img.shields.io/badge/LeetCode-pariksith24-f472b6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/pariksith24/)
-[![CaseFlow](https://img.shields.io/badge/Live-CaseFlow-a78bfa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://caseflows.vercel.app/)
-[![CHEP](https://img.shields.io/badge/Live-CHEP-f472b6?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117)](https://chep.infinityfreeapp.com/index.php)
-[![Profile Views](https://komarev.com/ghpvc/?username=pariksith&style=for-the-badge&color=a78bfa&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/pariksith)
-[![Followers](https://img.shields.io/github/followers/pariksith?style=for-the-badge&color=f472b6&labelColor=0d1117)](https://github.com/pariksith?tab=followers)
+[![GitHub](https://img.shields.io/badge/GitHub-pariksith-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pariksith)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://pariksith.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/pariksith-ganesh-kumar-537a5336a)
+[![LeetCode](https://img.shields.io/badge/LeetCode-pariksith24-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pariksith24/)
 
-</div>
-
----
-
-```txt
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║  Pariksith G                                                                 ║
-║  ─────────────────────────────────────────────────────────────────────────   ║
-║  AI & Data Science Student · Full-Stack Developer · Coimbatore, India        ║
-║                                                                              ║
-║  Building production-grade platforms at the intersection of                  ║
-║  AI, domain expertise, and systems that survive real users.                  ║
-║                                                                              ║
-║  Not a tutorial builder. Not a demo guy.                                     ║
-║  I build hospital ecosystems. Legal tech platforms.                          ║
-║  Loan management systems. Offline NLP engines.                               ║
-║  AI-powered creative tools.                                                  ║
-║                                                                              ║
-║  If a problem feels too complex for a weekend project —                      ║
-║  I spend the weekends solving it anyway.                                     ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-I'm an **AI & Data Science student** who went straight to production.
-
-While most people write assignments about neural networks, I'm integrating GPT-4o into courtroom workflows. While most people read about databases, I'm designing multi-role hospital systems with ICU monitoring, telemedicine, triage, and payroll — all in one repo.
-
-I work across the full stack without hesitation: **TypeScript, PHP, React, Next.js, Python** — and wherever the problem leads.
-
-### Domains I Build For
-- ⚖️ Legal Tech
-- 🏥 Healthcare
-- 💸 Finance
-- 🧠 NLP & AI Tooling
-- 🎨 Creative Tools
-
-The best software is **opinionated, domain-specific, and built by someone who cares**.
-
----
-
-# 📌 Featured Projects
-
-# 🧩 Q-GEN — Offline NLP Question Generator
-
-> Rule-based question generation, no API calls, no internet required.
-
-### Features
-- spaCy dependency parsing for grammar-aware generation
-- Generates Wh-questions, True/False, MCQ, and Cloze
-- Each question tagged with a difficulty level
-- Fully offline, rule-based pipeline
-
-### Stack
-`Python` · `spaCy` · `NLP`
-
-[![Repo](https://img.shields.io/badge/GitHub-Q--GEN-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith/Q-GEN)
-
----
-
-# 📌 PINCRAFT — AI Pinterest Recreation Tool
-
-> Turns a reference image into a full shoot blueprint.
-
-### Features
-- Analyzes a reference image for style and mood
-- Generates scene, camera, and lighting guidance
-- Editing recommendations
-- Shopping guidance for props and outfits
-
-### Stack
-`Python` · `AI/Vision`
-
-[![Repo](https://img.shields.io/badge/GitHub-PINCRAFT-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith/PINCRAFT)
-
----
-
-# ⚖️ CaseFlow — AI Litigation Workflow
-
-> Court-ready legal notices from raw client stories.
-
-### Features
-- GPT-4o structured legal extraction
-- Section 138 NI Act notice generation for Indian advocates
-- Court-ready `.docx` generation
-- Twilio OTP authentication
-- Resend email reminders
-- Tamil + English i18n
-- Deadline tracking
-
-### Stack
-`Next.js 14` · `TypeScript` · `Supabase` · `GPT-4o` · `Twilio` · `Resend`
-
-[![Repo](https://img.shields.io/badge/GitHub-CASEFLOW-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith/CASEFLOW)
-[![Live](https://img.shields.io/badge/Live-caseflows.vercel.app-f472b6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://caseflows.vercel.app/)
-
----
-
-# 💸 LendMate — Lending Management System
-
-> Loan management and collections platform for tracking the full lending lifecycle.
-
-### Features
-- Borrower and loan tracking
-- EMI schedules and repayments
-- Partner commissions
-- Expenses & withdrawals tracking
-- Financial reports
-- Row-level security
-
-### Stack
-`React` · `TypeScript` · `Supabase` · `PostgreSQL`
-
-[![Repo](https://img.shields.io/badge/GitHub-LendMate-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith/LENDING-MANAGEMENT-SYSTEM)
-
----
-
-# 🏥 CHEP — Complete Hospital Ecosystem Platform
-
-> A hospital in a repository.
-
-### Modules
-- Patient registration & appointments
-- Doctor workflows
-- Reception & billing
-- Pharmacy & laboratory
-- ICU monitoring
-- AI-powered health assistant
-- Payroll & analytics
-- Telemedicine
-- PWA support
-
-### Stack
-`PHP` · `MySQL` · `JavaScript` · `PWA`
-
-[![Repo](https://img.shields.io/badge/GitHub-CHEP-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith/COMPLETE-HOSPITAL-ECOSYSTEM-PLATFORM)
-[![Live](https://img.shields.io/badge/Live-chep.infinityfreeapp.com-f472b6?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117)](https://chep.infinityfreeapp.com/index.php)
-
----
-
-# ✍️ CUSTOM — Cinematic AI Story Generator
-
-> A local AI writing app that turns a short prompt into a full piece.
-
-### Features
-- Runs fully locally via Hugging Face Transformers + PyTorch
-- Gradio-based interface
-- Generates Story, Poem, and more from one prompt
-- Selectable output styles
-
-### Stack
-`Python` · `Gradio` · `Hugging Face Transformers` · `PyTorch`
-
-[![Repo](https://img.shields.io/badge/GitHub-CUSTOM-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith/CUSTOM)
-
----
-
-<div align="center">
-
-### ⚡ Languages & Frameworks
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🧠 AI / NLP
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### 🗄️ Backend & Data
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🚀 Deploy & Tooling
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=pariksith&style=flat-square&color=a78bfa&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/pariksith?style=flat-square&color=f472b6&label=Followers)
 
 </div>
 
----
+<br/>
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| 🧩 **[Q-GEN](https://github.com/pariksith/Q-GEN)** | Offline, rule-based NLP engine that auto-generates Wh-questions, T/F, MCQ & Cloze from text | `Python` `spaCy` | [Repo](https://github.com/pariksith/Q-GEN) |
+| 🎨 **[PINCRAFT](https://github.com/pariksith/PINCRAFT)** | AI tool that turns a reference image into a full shoot blueprint (scene, lighting, styling) | `Python` `AI/Vision` | [Repo](https://github.com/pariksith/PINCRAFT) |
+| ⚖️ **[CaseFlow](https://github.com/pariksith/CASEFLOW)** | Converts client stories into court-ready legal notices for Indian advocates | `Next.js` `TypeScript` `GPT-4o` `Supabase` | [Repo](https://github.com/pariksith/CASEFLOW) · [Live](https://caseflows.vercel.app/) |
+| 💸 **[LendMate](https://github.com/pariksith/LENDING-MANAGEMENT-SYSTEM)** | Loan & collections management platform — borrowers, EMIs, partners, reports | `React` `TypeScript` `Supabase` | [Repo](https://github.com/pariksith/LENDING-MANAGEMENT-SYSTEM) |
+| 🏥 **[CHEP](https://github.com/pariksith/COMPLETE-HOSPITAL-ECOSYSTEM-PLATFORM)** | Full hospital ecosystem — billing, pharmacy, ICU monitoring, telemedicine, AI health assistant | `PHP` `MySQL` `PWA` | [Repo](https://github.com/pariksith/COMPLETE-HOSPITAL-ECOSYSTEM-PLATFORM) · [Live](https://chep.infinityfreeapp.com/index.php) |
+| ✍️ **[CUSTOM](https://github.com/pariksith/CUSTOM)** | Local cinematic AI writing app — generates stories, poems & more from one prompt | `Python` `Gradio` `PyTorch` | [Repo](https://github.com/pariksith/CUSTOM) |
+
+<br/>
+
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pariksith&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=f472b6&amp;text_color=c9d1d9"/>
+**Languages & Frameworks**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pariksith&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c9d1d9"/>
+**AI / NLP**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
 
-<br/><br/>
+**Backend & Data**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pariksith&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;stroke=a78bfa&amp;ring=f472b6&amp;fire=f472b6&amp;currStreakLabel=a78bfa"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pariksith&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=f472b6&amp;point=ffffff&amp;area=true&amp;hide_border=true"/>
+**Deploy & Tooling**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
----
+<br/>
 
-# 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pariksith&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=2&amp;column=4&amp;margin-w=16&amp;margin-h=16"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=pariksith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f472b6&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pariksith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pariksith&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=f472b6&fire=f472b6&currStreakLabel=a78bfa"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pariksith&bg_color=0d1117&color=a78bfa&line=f472b6&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
----
-
-# 🐍 Contribution Snake
-
+<details>
+<summary>🏆 GitHub Trophies</summary>
+<br/>
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pariksith/pariksith/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pariksith/pariksith/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pariksith/pariksith/output/github-contribution-grid-snake.svg"/>
-</picture>
-
+<img src="https://github-profile-trophy.vercel.app/?username=pariksith&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=16&margin-h=16"/>
 </div>
+</details>
 
----
+<details>
+<summary>🐍 Contribution Snake</summary>
+<br/>
+<div align="center">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pariksith/pariksith/output/github-contribution-grid-snake.svg"/>
+</div>
+</details>
 
-```txt
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│  I build things that solve real problems for real people.            │
-│                                                                      │
-│  Legal tech. Healthcare. Finance. NLP. Creative tools.                │
-│  Domains that matter — not CRUD tutorials.                           │
-│                                                                      │
-│  → Domain-specific AI                                                │
-│  → Full-stack ownership                                              │
-│  → Shipping over perfection                                          │
-│  → Production-first systems                                          │
-│  → Software built to survive outside demos                           │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+<br/>
 
----
-
-```txt
-Active areas
-─────────────────────────────────────────────
-
-▸ Production AI integrations
-▸ Offline / rule-based NLP
-▸ Real-time systems architecture
-▸ Database optimization
-▸ Tamil-first NLP
-▸ SaaS architecture
-▸ Vector databases
-▸ High-availability systems
-
-[STATUS] Always learning. Always building.
-```
-
----
-
-# 📊 By The Numbers
+## 📈 By The Numbers
 
 <div align="center">
 
-| 🚀 Production Projects | ⚙️ Backend Systems | 🤖 AI Integrations | 💾 Database Schemas | 🌐 Live Deploys |
+| 🚀 Projects | ⚙️ Backend Systems | 🤖 AI Integrations | 💾 DB Schemas | 🌐 Live Deploys |
 |:---:|:---:|:---:|:---:|:---:|
 | 6+ | 4+ | 4+ | 5+ | 2+ |
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### Open to collaborations and serious builds.
+**Open to collaborations and serious builds.**
+LegalTech · HealthTech · FinTech · NLP · AI Workflows
 
-LegalTech · HealthTech · FinTech · NLP · AI Workflows · Real-time Systems
+[![GitHub](https://img.shields.io/badge/Follow-@pariksith-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pariksith)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/pariksith-ganesh-kumar-537a5336a)
 
-<br/>
+*"The best time to ship was last week. The second best time is right now."*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20@pariksith-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://in.linkedin.com/in/pariksith-ganesh-kumar-537a5336a)
-
-<br/>
-
-> *"The best time to ship was last week. The second best time is right now."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,25:302b63,50:4a1942,75:1f4068,100:0f0c29&amp;height=140&amp;section=footer&amp;animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,25:302b63,50:4a1942,75:1f4068,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
 </div>
-```txt
-Active areas
-─────────────────────────────────────────────
-
-▸ Production AI integrations
-▸ Real-time systems architecture
-▸ Database optimization
-▸ Tamil-first NLP
-▸ SaaS architecture
-▸ Vector databases
-▸ High-availability systems
-
-[STATUS] Always learning. Always building.
-```
-
----
-
-# 📊 By The Numbers
-
-<div align="center">
-
-| 🚀 Production Projects | ⚙️ Backend Systems | 🤖 AI Integrations | 💾 Database Schemas | 🌐 Live Deploys |
-|:---:|:---:|:---:|:---:|:---:|
-| 6+ | 4+ | 3+ | 5+ | 2+ |
-
-</div>
-
----
-
-<div align="center">
-
-### Open to collaborations and serious builds.
-
-LegalTech · HealthTech · FinTech · AI Workflows · Real-time Systems
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20@pariksith-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/pariksith)
-
-<br/>
-
-> *"The best time to ship was last week. The second best time is right now."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,25:302b63,50:4a1942,75:1f4068,100:0f0c29&amp;height=140&amp;section=footer&amp;animation=fadeIn"/>
-
-</div> 
