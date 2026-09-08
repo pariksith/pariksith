@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/pariksith/pariksith/blob/main/assets/Cristiano%20Ronaldo%20%F0%9F%87%B5%F0%9F%87%B9.jpg"  width="100%"/>
+<img src="https://github.com/pariksith/pariksith/blob/main/assets/Cristiano%20Ronaldo%20.jpg"  width="100%"/>
 
 <br/>
 <br/>
