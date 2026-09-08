@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0612,15:0f0c29,35:1b153f,55:302b63,75:4a1942,90:1f4068,100:0a0612&height=280&section=header" width="100%"/>
+<img src="https://github.com/pariksith/pariksith/blob/main/assets/Cristiano%20Ronaldo%20%F0%9F%87%B5%F0%9F%87%B9.jpg"  width="100%"/>
 
+<br/>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=52&duration=3500&pause=1200&color=E9DFFF&center=true&vCenter=true&width=750&lines=Pariksith+G" />
