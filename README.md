@@ -34,7 +34,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pariksith24/)
 
 <img src="https://komarev.com/ghpvc/?username=pariksith&style=for-the-badge&color=a78bfa&labelColor=0d1117&label=✦+PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/pariksith?style=for-the-badge&color=f472b6&labelColor=0d1117&label=✦+FOLLOWERS"/>
 
 </div>
 
